@@ -1,0 +1,42 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  section {
+    background-color: rgba(255, 255, 255, 0.7);
+    padding: 20px;
+    width: 50%;
+    border-radius: 50px;
+  
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+
+  img{
+      margin-top: 20%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      flex-direction: column;
+      padding: 20px;
+      width: 300px;
+      height: auto
+  }
+
+  #search-bar{
+      width: 300px;
+  }
+
+.button{
+    margin-left: 30px;
+}
+
+  div{
+      display: flex;
+      justify-content: center;
+      margin: 20px;
+  }
